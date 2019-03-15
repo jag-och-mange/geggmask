@@ -1,2 +1,2 @@
 # geggmask
-filer för projekt geggmask
+filer för spelet projekt geggmask
